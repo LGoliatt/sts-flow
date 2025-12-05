@@ -2,7 +2,7 @@
 
 **Stacked Two-Stage Flowing Bottomhole Pressure Learning and Oilfield Wellbore Predictor**
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
@@ -253,7 +253,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or collaboration opportunities:
 - GitHub Issues: [Create an issue](https://github.com/yourusername/sts-flow/issues)
-- Email: your.email@example.com
+- Email: leonardo.goliatt@ufjf.br
 
 ## References
 
