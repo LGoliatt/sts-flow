@@ -50,13 +50,6 @@ pip install xgboost py-earth hydroeval
 pip install gmdhpy
 ```
 
-### Custom Modules
-
-The following utility modules should be placed in the `util/` directory:
-- `ELM.py` - Extreme Learning Machine implementation
-- `RBFNN.py` - Radial Basis Function Neural Network
-- `LSSVR.py` - Least Squares Support Vector Regression
-
 ### Data Reader Modules
 
 Ensure the following data reader modules are available:
